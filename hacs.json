@@ -1,5 +1,5 @@
 {
-    "name": "ShellyForHass (Shelly integration)",
+    "name": "ShellyForHassMT (Shelly integration - Versione MT)",
     "hide_default_branch": false,
     "zip_release": true,
     "filename": "shelly4hass.zip",
